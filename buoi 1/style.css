@@ -1,0 +1,51 @@
+.bold {
+    color: red;
+    font-weight: bold;
+}
+p {
+    font-size: 25px;
+    background: url(https://image2.baonghean.vn/w800/Uploaded/2018/tmpwijvi/2018_05_29/1712285_2952018.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#colorGray {
+    color:grey;
+}
+input[type=text] {
+    color: blueviolet;
+}
+
+h3, h6 {
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: aqua;
+    background-color: blue;
+}
+
+ul li {
+    color: red;
+}
+
+ul > li {
+    font-size: 50px;
+}
+a:hover {
+    color:peru;
+}
+
+a:active {
+    font-weight: bold;
+}
+
+img {
+    /* height: 100px;
+    width: 100px;
+    border-radius: 10px; */
+    border: red dashed 10px;
+    border-top: bisque dotted 10px;
+    padding: 10%;
+    margin: 10%;
+    display: inline-block;
+}
